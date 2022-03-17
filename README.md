@@ -42,3 +42,4 @@ git remote add origin "url"
 10. ¿Cómo explicarías qué ha ocurrido cuando tras la ejecución de un comando de GIT nos responde: "You are in 'detached HEAD' state"?
 Respuesta:
 Ocurriria por que no estamos asociados a ninguna rama.
+ 
